@@ -1,0 +1,1 @@
+{\n  "name": "study-buddy-bot",\n  "version": "1.0.0",\n  "description": "A bot to facilitate study sessions and group check-ins.",\n  "main": "index.js",\n  "scripts": {\n    "test": "jest"\n  },\n  "dependencies": {\n    "twilio": "^3.63.0"\n  },\n  "devDependencies": {\n    "jest": "^27.0.0"\n  },\n  "keywords": [],\n  "author": "",\n  "license": "ISC"\n}
